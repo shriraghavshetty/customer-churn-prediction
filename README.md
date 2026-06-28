@@ -17,10 +17,9 @@ Companies lose millions due to customer churn. This project predicts high-risk c
 
 ### 🔹 Confusion Matrix & Feature Importance
 Our model successfully flags churning customers with high precision. Below are the key evaluation charts:
-
 | Confusion Matrix | Feature Importance |
 | :---: | :---: |
-| ![Confusion Matrix](images/confusion_matrix.png) | ![Feature Importance](images/feature_importance.png) |
+| <img src="images/confusion_matrix.png" width="400" alt="Confusion Matrix"> | <img src="images/feature_importance.png" width="400" alt="Feature Importance"> |
 
 ---
 
